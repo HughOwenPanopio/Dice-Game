@@ -1,0 +1,39 @@
+body {
+    background-color: #053B50;
+    background-image: url(/bgphoto/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dice-game {
+    text-align: center;
+    background-color: #F8F0E5;
+    width: 500px;
+    border-radius: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 250px;
+    margin-left: 700px;
+}
+.forgrid {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    text-align: center;
+    grid-column-gap: 20px;
+    padding-left: 50px;
+}
+.container2 {
+    margin-top: 20px;
+}
+.btn1 {
+    border-radius: 10px;
+    background-color: #016A70;
+    color: #F8F0E5;
+    padding: 10px;
+    margin: 20px;
+}
+.btn2 {
+    border-radius: 10px;
+    background-color: #016A70;
+    color: #F8F0E5;
+    padding: 10px;
+}
